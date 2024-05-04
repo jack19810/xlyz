@@ -15,8 +15,6 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="央视稳定",CCTV-13 新闻
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="央视稳定",CCTV-13 新闻
-http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="CCTV源1",CCTV-1 综合
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv1/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="CCTV源1",CCTV-2 财经
