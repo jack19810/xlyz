@@ -1,15 +1,15 @@
 央视稳定,#genre#
 CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-CCTV-4 中文国际,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 CCTV-4 中文国际(美洲),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV-6 电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV-8 电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV-9 纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV-13 新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 
-CCTV源2,#genre#
+CCTV央视,#genre#
 CCTV-1 综合,http://14.212.185.138:9901/tsfile/live/0001_1.m3u8
 CCTV-2 财经,http://14.212.185.138:9901/tsfile/live/0002_1.m3u8
 CCTV-3 综艺,http://14.212.185.138:9901/tsfile/live/0003_1.m3u8
@@ -98,10 +98,9 @@ CCTV-17 农业农村,http://14.212.185.138:9901/tsfile/live/0017_1.m3u8
 
 其他频道,#genre#
 CHC高清电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
-凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-湖南电视剧,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTZhOTI2MzQxNDI2YjAxNDgwNmQwNzBmY2Y5N2UwNGEyJmVzPTE3MTQ4NDI0MjQmdXVpZD03ZTE5ZGExZDI0MGE3ZTg3YTM3MDFmODhiNzMzNjNhMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
 
 经典抗日影片,#genre#
 南征北战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8
